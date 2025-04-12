@@ -29,7 +29,7 @@ github:
   username: jjong22 # change to your GitHub username
 
 twitter:
-  username: jjong22 # change to your Twitter username
+  username: jjong111_111 # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -98,7 +98,7 @@ theme_mode: dark # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/jjong.jpg
+avatar: /assets/img/favicons/android-chrome-512x512.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
